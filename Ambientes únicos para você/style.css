@@ -1,0 +1,62 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  font-size: 62.5%;
+}
+
+body .main,
+footer {
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+  width: 59.2rem;
+  margin: auto;
+}
+
+h1 {
+  font-family: 'Inter', sans-serif;
+  font-size: 4.9rem;
+  font-weight: normal;
+  margin-top: 7.2rem;
+}
+
+h1 span {
+  color: #ff9900;
+  font-weight: bold;
+}
+
+p {
+  color: #7d7987;
+  font-size: 1.4rem;
+
+  margin-top: 3.2rem;
+  margin-bottom: 7.2rem;
+}
+
+p span {
+  color: #ff9900;
+}
+
+.line {
+  border: 1px solid #eceff2;
+  margin-bottom: 0.8rem;
+}
+
+footer a {
+  font-size: 1.4rem;
+  color: #ff9900;
+  text-decoration: underline;
+}
+
+footer a + a {
+  margin-left: 2.8rem;
+}
+
+.balls {
+  position: fixed;
+  right: 2px;
+  bottom: 2px;
+}
