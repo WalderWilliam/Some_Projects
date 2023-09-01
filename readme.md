@@ -1,7 +1,7 @@
 <h1 align="center"> Some Projects </h1>
 
 <p align="center">
-Um site para que eu possa mostram pequenos projetos que estou fazendo
+Um site para que eu possa mostrar pequenos projetos que estou fazendo.
 </p>
 
 <p align="center">
