@@ -10,14 +10,14 @@
 
 body .main,
 footer {
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
   text-align: center;
   width: 59.2rem;
   margin: auto;
 }
 
 h1 {
-  font-family: 'Inter', sans-serif;
+  font-family: "Inter", sans-serif;
   font-size: 4.9rem;
   font-weight: normal;
   margin-top: 7.2rem;
